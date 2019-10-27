@@ -8,4 +8,7 @@ For George School class of 21 foundraising, we present this haunted house & zomb
 
 
 
-# Ending notes
+# Ending notes 
+- Check the "Design Document" to see more of our thoughts throughout the game. 
+- We will upload a video very soon! 
+- Follow us on instagram to see more projects(games, films, video games, art, music): @seablaze_studio
